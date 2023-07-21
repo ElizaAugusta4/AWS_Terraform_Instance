@@ -1,7 +1,7 @@
 # AWS_Terraform_Instance
  Este repositório tem objetivo de armazenar os códigos usados para criação de uma instância EC2 na AWS com Terraform. 
 
-Comandos utilizados
+Comandos utilizados:
 
 terraform init    # Inicializa o projeto e baixa os plugins necessários
 terraform plan    # Visualiza as mudanças que serão feitas na infraestrutura
